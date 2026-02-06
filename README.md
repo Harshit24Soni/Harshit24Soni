@@ -135,8 +135,8 @@ Built incrementally with:
 ---
 
 ## 📬 Let’s Connect
-- 💼 LinkedIn: https://www.linkedin.com/
-- 📧 Email: (add your email)
+- 💼 LinkedIn: www.linkedin.com/in/harshit24soni
+- 📧 Email: harshit24soni@gmail.com
 - 📁 GitHub: You’re already here 🙂
 
 ---
