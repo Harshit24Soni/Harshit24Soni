@@ -4,7 +4,7 @@
 
 I build backend systems that replace manual, spreadsheet-driven work with reliable, tested software. My main project is an ERP for an EV dealership, now deployed end to end.
 
-📍 **Open to a 6-month on-site internship in Pune from January 2027.**
+📍 **Open to a 6-month on-site internship from January 2027.**
 
 ---
 
