@@ -1,144 +1,57 @@
-# Hi, I’m Harshit Soni 👋  
+# Hi, I'm Harshit Soni 👋
 
-🎓 B.Tech Student | 📊 Finance, Data & Systems Thinking | 🧠 Analytical Mindset  
+**B.Tech Computer Science student (7th semester) · Backend & automation · Indore, India**
 
-I’m an engineering student who enjoys working at the intersection of **finance, data, and practical systems**.  
-I like building **clear, explainable solutions** that simplify real-world problems — especially around money, operations, and decision-making.
+I build backend systems that replace manual, spreadsheet-driven work with reliable, tested software. My main project is an ERP for an EV dealership, now deployed end to end.
 
-I value **ownership of logic** more than flashy demos.
-
----
-
-## 🧭 What I’m Focused On
-- 📈 Finance operations & analytics  
-- 🧮 Excel-based decision systems (automation later, not first)  
-- 🏗️ Building systems that work in the real world, not just on paper  
-- 🧠 Understanding how money, data, and constraints interact  
+📍 **Open to a 6-month on-site internship in Pune from January 2027.**
 
 ---
 
-## 💼 What I Actually Do
-- Design **personal and small-scale financial tracking systems**
-- Work with **real data** (personal & family finances)
-- Convert scattered information into **structured, usable insights**
-- Apply engineering thinking to **simplify workflows and decisions**
+## 🚀 Featured project
 
-I prefer systems that are:
-- simple
-- auditable
-- explainable
-- reliable
+### [Electric Vehicle Showroom ERP](https://github.com/Harshit24Soni/Electric-Vehicle-Showroom-ERP) · [Live demo](https://electric-vehicle-showroom-erp.vercel.app)
+An ERP for an electric-vehicle dealership covering inventory, purchasing, spare parts and stock movement, with automated dealer-cost, selling-price and GST input-credit calculations.
+
+`FastAPI` `PostgreSQL` `SQLAlchemy` `Redis` `React` `TypeScript` `Playwright` `GitHub Actions` `Docker`
+Deployed on Render, Vercel, Supabase and Upstash.
 
 ---
 
-## 🏭 Early Real-World Experience
-**Class 10 (School Level):**
-- Simplified showroom operations using **MS Access**
-  - Designed relational tables
-  - Built forms for data entry
-  - Used queries for retrieval
-- Integrated **MS Word Mail Merge** for documentation
-- Reduced manual work by structuring data properly
+## 🛠️ What I work with
 
-This experience shaped how I think about:
-> systems first, tools second.
-
----
-
-## 🔧 Current Direction
-I am now working towards building a **proper desktop-based showroom management system**, step by step, with:
-- clear business logic
-- structured data
-- explainable workflows
-
-The focus is on **correct system design first**, not rushed UI or hype features.
+| Area | Tools |
+|---|---|
+| Languages | Python, SQL, TypeScript/JavaScript, C/C++, HTML/CSS |
+| Backend | FastAPI, REST APIs, SQLAlchemy, Alembic, JWT auth, Redis |
+| Data | PostgreSQL, Excel (Pivot Tables, XLOOKUP, dashboards), MS Access |
+| Frontend | React, Tailwind CSS |
+| Testing & DevOps | pytest, Playwright, GitHub Actions, Docker, Render, Vercel |
+| AI | Prompt engineering, LLM APIs (Groq, OpenAI, Gemini), LangChain |
 
 ---
 
-## 📊 Finance & Money (Core Interest)
-- Deep interest in **how financial markets work**
-- Continuously learning about:
-  - investing
-  - risk
-  - asset allocation
-  - long-term wealth building
-- I consciously avoid speculation-first approaches
+## 🌱 Currently learning
 
-### Personal Practice
-- Track my **own and my family’s finances**
-- Maintain structured records for:
-  - investments
-  - insurance
-  - documents
-- Aim to make money work in a **safe, secure, and disciplined manner**
-
-Finance for me is about:
-> responsibility, structure, and long-term clarity — not shortcuts.
+- Microsoft **Power Platform**: Power Apps, Power Automate, Power BI (preparing for **PL-900**)
+- Building a small Power BI dashboard on top of my personal-finance tracking data
+- Data structures and algorithms (my [NeetCode submissions](https://github.com/Harshit24Soni/neetcode-submissions))
 
 ---
 
-## 🛠️ Tools & Skills
+## 💼 Experience
 
-### Core Strengths
-- **Excel / Google Sheets**
-  - Pivot Tables
-  - XLOOKUP / VLOOKUP
-  - Structured reporting
-  - Financial summaries & dashboards  
-
-- **Systems Thinking**
-  - Process simplification
-  - Data structuring
-  - Decision support logic
-
-### Technical (Used purposefully)
-- **MS Access** – relational data & forms
-- **Python (basic)** – automation & data handling
-- **SQL / PostgreSQL (learning)** – structured storage & querying
-- **Git & GitHub** – version control & documentation
-- **AI tools** – for productivity, not dependency
+**Generative AI Intern, Digiveda (Jun–Aug 2026):** built the backend foundation of Task Orbit, a Jira-style task manager: JWT auth, core tables, password-reset APIs and rate limiting. *(Private repository.)*
 
 ---
 
-## 📂 Projects (Evolving)
-🚧 **Finance Operations & Analytics System**  
-A practical system focused on:
-- tracking inflows & outflows
-- identifying trends and inefficiencies
-- supporting decisions using clean data
+## 🧭 How I work
 
-Built incrementally with:
-- Excel as the core logic layer
-- Automation added only when it adds clarity
-
-🚧 **Showroom Management System (Planned Desktop Application)**  
-- Inspired by early MS Access work
-- Goal: build a clean, maintainable, explainable system
-- Focus on operations, not unnecessary complexity
+I start from the real workflow, keep the logic simple and explainable, and test it. I got started in Class 10 by replacing a showroom's paper records with an MS Access database and mail-merge documents, and I have been building systems for that same business ever since.
 
 ---
 
-## 🧠 How I Think
-- Start **small and correct**
-- Prefer **clarity over speed**
-- Avoid over-engineering
-- Build things I can **defend and explain**
+## 📬 Contact
 
----
-
-## 🌱 What I’m Intentionally Avoiding
-- ❌ Hype-driven tech choices
-- ❌ Blind day trading or F&O
-- ❌ Claiming expertise without depth
-- ❌ Building apps I don’t understand internally
-
----
-
-## 📬 Let’s Connect
-- 💼 LinkedIn: www.linkedin.com/in/harshit24soni
-- 📧 Email: harshit24soni@gmail.com
-- 📁 GitHub: You’re already here 🙂
-
----
-
-> *“Good systems don’t shout. They quietly work.”*
+- 📧 harshit24soni@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshit24soni)
